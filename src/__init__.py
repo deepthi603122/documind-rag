@@ -1,0 +1,3 @@
+"""
+DocuMind RAG package.
+"""

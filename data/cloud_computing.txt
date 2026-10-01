@@ -1,0 +1,33 @@
+Cloud Computing
+
+Cloud computing is the delivery of computing resources over the internet instead of requiring organizations to purchase and maintain all computing infrastructure themselves. These resources can include servers, storage, databases, networking, software, analytics, and processing power. Cloud computing allows users to access resources when they need them and can make it easier to increase or decrease resources according to demand.
+
+One of the most important characteristics of cloud computing is on-demand self-service. Users can provision computing resources without requiring manual intervention from a service provider for every request. For example, an organization may create additional virtual machines or allocate additional storage when its workload increases. This makes infrastructure management more flexible.
+
+Another important characteristic is broad network access. Cloud resources are generally available through networks and can be accessed using different types of devices. Employees may access cloud applications from laptops, desktop computers, tablets, or mobile devices depending on the application and security policies.
+
+Resource pooling is another major concept. Cloud providers maintain pools of computing resources that can serve multiple customers. Physical resources such as servers and storage systems can be allocated dynamically according to customer requirements. The underlying infrastructure is managed by the provider while customers use the resources assigned to them.
+
+Rapid elasticity allows cloud resources to increase or decrease quickly. An application may need more computing power during periods of high traffic and fewer resources when demand decreases. Cloud environments can support this flexibility by allowing resources to be provisioned and released as required.
+
+Measured service means that cloud resource usage can be monitored and measured. Organizations can track resources such as storage, network traffic, processing time, or virtual machine usage. This measurement can help organizations understand consumption and manage costs.
+
+Cloud computing services are commonly described using service models. Infrastructure as a Service, or IaaS, provides fundamental computing resources such as virtual machines, storage, and networking. The customer usually has more control over the operating system and applications while the provider manages the underlying physical infrastructure.
+
+Platform as a Service, or PaaS, provides a platform that developers can use to build and deploy applications. The provider manages much of the underlying infrastructure and runtime environment. Developers can focus more on application development rather than managing physical servers and operating systems.
+
+Software as a Service, or SaaS, provides complete software applications through the internet. Users generally access these applications through a web browser or application interface. The cloud provider manages the application infrastructure, updates, and supporting systems.
+
+Cloud deployment models describe how cloud infrastructure is organized. A public cloud is operated by a cloud provider and provides resources to multiple customers. A private cloud is dedicated to a particular organization. A hybrid cloud combines private infrastructure with public cloud resources and can be used when organizations need a combination of environments.
+
+Cloud computing can provide several operational benefits. Organizations can avoid purchasing large amounts of physical infrastructure before knowing their future requirements. Resources can be provisioned as needed, which can reduce the time required to start new environments. Cloud platforms can also provide services for monitoring, backup, security, databases, networking, and application deployment.
+
+Scalability is an important reason organizations use cloud computing. Vertical scaling involves increasing the resources available to an existing system, such as adding more memory or processing capacity. Horizontal scaling involves adding more instances of an application or service. The appropriate approach depends on application architecture and workload requirements.
+
+Cloud computing also introduces security and management responsibilities. Organizations must protect credentials, configure access controls, protect sensitive information, monitor activity, and understand how responsibility is divided between the cloud provider and the customer. Cloud security therefore involves both provider-managed infrastructure and customer-managed configurations.
+
+Data storage is another common cloud use case. Cloud storage services allow organizations to store files, backups, application data, and other information. Storage systems can be designed for different access patterns and durability requirements.
+
+Cloud computing is widely used for application development, testing, data processing, backup, disaster recovery, web hosting, analytics, and enterprise applications. Development teams can create separate environments for development, testing, and production and provision resources according to project requirements.
+
+Overall, cloud computing provides a flexible approach to accessing computing infrastructure and services. Its major concepts include on-demand resources, resource pooling, elasticity, measured usage, service models, and deployment models. Organizations must evaluate their workload requirements, security needs, cost considerations, and operational responsibilities when designing cloud-based systems.

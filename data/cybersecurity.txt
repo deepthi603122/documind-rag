@@ -1,0 +1,37 @@
+Cybersecurity
+
+Cybersecurity is the practice of protecting computers, networks, applications, systems, and information from unauthorized access, misuse, disruption, modification, or destruction. Modern organizations depend heavily on digital systems, which makes cybersecurity an important part of technology management. Security involves technical controls as well as appropriate processes, policies, and user awareness.
+
+The three commonly discussed goals of information security are confidentiality, integrity, and availability. Confidentiality means that information should only be accessible to authorized individuals or systems. Integrity means that information should remain accurate and should not be modified without authorization. Availability means that authorized users should be able to access systems and information when they are required.
+
+Authentication is the process of verifying the identity of a user or system. A username and password are common authentication credentials. Strong authentication practices can include multi-factor authentication, where users must provide more than one form of verification. Authentication should be combined with appropriate authorization controls.
+
+Authorization determines what an authenticated user is allowed to access or perform. For example, an employee may be allowed to view certain documents but may not be permitted to modify system configuration. Role-based access control can assign permissions based on a user's organizational role.
+
+A major cybersecurity threat is malware. Malware is malicious software designed to perform unwanted or harmful activities. Common categories include viruses, worms, trojans, ransomware, and spyware. Different types of malware have different behaviors, but all require appropriate security controls and monitoring.
+
+Phishing is another common security threat. Phishing attacks attempt to persuade users to reveal sensitive information or perform an unsafe action. Attackers may send messages that appear to come from trusted organizations or individuals. Users should carefully inspect unexpected messages, links, attachments, and requests for credentials or financial information.
+
+Ransomware is malware that can prevent users from accessing systems or data and may demand payment from victims. Organizations can reduce the impact of ransomware through secure backups, access controls, system updates, network segmentation, monitoring, and security awareness.
+
+Social engineering attacks target human behavior rather than relying only on technical vulnerabilities. Attackers may attempt to manipulate users into revealing information or granting access. Security awareness training can help employees recognize suspicious requests and unexpected communication.
+
+Network security focuses on protecting communication networks and connected systems. Firewalls can control network traffic based on defined rules. Network monitoring can help identify unusual activity. Secure network design can separate systems into different segments to limit the impact of a compromised system.
+
+Encryption is used to protect information by transforming readable data into a form that cannot easily be understood without the appropriate key. Encryption can be applied to data stored on systems as well as data transmitted across networks. Proper key management is an important part of effective encryption.
+
+Secure software development is also an important cybersecurity practice. Developers should consider security throughout the software development lifecycle rather than treating security as a final step. Input validation, authentication, authorization, secure session management, dependency management, and error handling are examples of areas that require attention.
+
+Software vulnerabilities can result from programming mistakes, insecure configurations, outdated components, or incorrect assumptions. Regular updates and security patches can reduce exposure to known vulnerabilities. Organizations should maintain an inventory of software and understand which versions are deployed.
+
+Logging and monitoring provide visibility into system activity. Logs may record authentication attempts, application events, network activity, and administrative actions. Security teams can analyze logs to identify suspicious behavior and investigate incidents.
+
+A cybersecurity incident is an event that affects the security of information or systems. Incident response involves preparing for incidents, detecting them, analyzing what happened, containing the problem, removing the cause, recovering systems, and learning from the event. Organizations should maintain an incident response process before an incident occurs.
+
+Backups are an important part of resilience. Important data should be backed up according to organizational requirements. Backups should be protected from unauthorized access and should be tested periodically to ensure that information can actually be restored.
+
+The principle of least privilege means that users and systems should receive only the permissions necessary to perform their required tasks. Reducing unnecessary privileges can limit the damage that occurs if an account or system is compromised.
+
+Cybersecurity is therefore a combination of people, processes, and technology. Strong passwords, multi-factor authentication, access controls, encryption, secure development, monitoring, backups, patch management, and security awareness all contribute to a stronger security posture.
+
+As organizations adopt cloud services, mobile applications, APIs, remote work, and connected devices, cybersecurity becomes increasingly important. Effective security requires continuous monitoring, regular assessment, appropriate controls, and awareness of changing threats. No single security mechanism is sufficient by itself, so organizations generally use multiple layers of protection.

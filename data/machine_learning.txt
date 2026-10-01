@@ -1,0 +1,41 @@
+Machine Learning
+
+Machine learning is a field of artificial intelligence in which computer systems learn patterns from data and use those patterns to make predictions, classifications, or decisions. Instead of explicitly programming every possible rule, a machine learning system can learn relationships from examples.
+
+A machine learning workflow generally begins with collecting data. The quality and relevance of the data can have a major effect on the resulting model. Data may come from databases, files, sensors, applications, websites, or other sources. Before training a model, data often needs to be cleaned and prepared.
+
+Data preprocessing can include handling missing values, removing duplicate records, correcting inconsistent values, transforming data types, and preparing categorical information. Numerical features may sometimes need scaling depending on the algorithm being used.
+
+A feature is an input variable used by a machine learning model. For example, a model predicting house prices could use features such as area, number of rooms, location, and age of the building. The target is the value that the model is trying to predict when the learning task is supervised.
+
+Supervised learning uses labeled training data. Each training example contains input information and a known target or label. The model learns a relationship between the inputs and the target. Classification and regression are two common types of supervised learning.
+
+Classification predicts categories. For example, an email classification model may predict whether a message is spam or not spam. A classification model may produce one of several predefined classes based on the input features.
+
+Regression predicts a numerical value. For example, a regression model could predict the expected price of a house based on its features. The output is a continuous numerical value rather than a category.
+
+Unsupervised learning works with data that does not have predefined target labels. The model attempts to discover patterns or structures in the data. Clustering is a common unsupervised learning technique in which similar data points are grouped together.
+
+A machine learning dataset is commonly divided into training and testing portions. The training set is used to learn model parameters. The test set is used to evaluate how the trained model performs on data that was not used during training.
+
+A validation set can also be used during model development. It can help with selecting model configurations and tuning hyperparameters without using the final test data repeatedly. Separating training, validation, and testing data can provide a clearer evaluation process.
+
+Overfitting occurs when a model learns the training data too closely and performs poorly on new data. An overfit model may capture noise or accidental patterns rather than general relationships. Underfitting occurs when a model is too simple to capture important patterns in the data.
+
+Model evaluation depends on the problem. For classification tasks, metrics can include accuracy, precision, recall, and F1 score. Accuracy measures the proportion of predictions that are correct. Precision measures how many predicted positive examples are actually positive. Recall measures how many actual positive examples were identified.
+
+For regression tasks, common evaluation measures include mean absolute error and mean squared error. Mean absolute error calculates the average absolute difference between predicted and actual values. Mean squared error gives greater weight to larger errors because the differences are squared.
+
+A machine learning model contains parameters learned from training data. Hyperparameters are settings selected before or during training that influence how a model learns. Examples can include learning rate, number of trees, model depth, and the number of clusters.
+
+Feature engineering involves creating or transforming input features to make them more useful for a machine learning model. Domain knowledge can be important when deciding which information should be represented as features.
+
+Algorithms used in machine learning include linear regression, logistic regression, decision trees, random forests, support vector machines, nearest-neighbor methods, and neural networks. Different algorithms have different characteristics and are suitable for different types of problems.
+
+Neural networks are models composed of interconnected computational units arranged in layers. Deep learning uses neural networks with multiple layers and has been applied to areas such as image recognition, natural language processing, speech processing, and other complex tasks.
+
+Machine learning models should be evaluated on data that represents the conditions in which they will be used. Data leakage can produce misleadingly high evaluation results when information from outside the training process accidentally influences model training.
+
+After a model is trained and evaluated, it can be deployed so that applications can send inputs and receive predictions. Deployment requires monitoring because real-world data can change over time. Changes in the underlying data distribution can affect model performance.
+
+Machine learning is therefore not only about selecting an algorithm. It involves data collection, preprocessing, feature preparation, model training, evaluation, deployment, and monitoring. A reliable machine learning system requires attention to data quality, appropriate evaluation methods, and the behavior of the model on unseen data.
